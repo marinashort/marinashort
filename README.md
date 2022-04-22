@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Marina Short</h1>
 - 🔭 I’m currently working on maintaining [Jeanne d'Arc web](https://jeanne-darc.net/)
 
