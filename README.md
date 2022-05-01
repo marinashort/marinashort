@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋🏻‍♀️, I'm Marina Short 🐈‍⬛</h1>
 - 🔭 I’m currently working on maintaining <a href="https://jeanne-darc.net/" target="_blank">Jeanne d'Arc web</a>
 
-- 🌱 I’m currently learning <a href="https://docs.python.org/3/" >Python</a> and <a href="https://www.djangoproject.com/" >Django</a>
+- 🌱 I’m currently learning <a href="https://www.djangoproject.com/" >Django</a>
 
 - 📫 How to reach me **mshortg@gmail.com**
 
